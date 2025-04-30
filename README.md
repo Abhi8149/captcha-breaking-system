@@ -1,2 +1,13 @@
-##Captcha breaking system##
-This can predict the characters present in captcha woth a accuracy og 88.17%
+## 🧠 Captcha Breaking System
+
+A machine learning-based system capable of predicting characters in CAPTCHA images with an accuracy of **88.17%**.
+
+### Features
+- Trained on labeled CAPTCHA datasets
+- Achieves high prediction accuracy (88.17%)
+- Easily extendable to other CAPTCHA types
+
+### Tech Stack
+- Python
+- TensorFlow 
+- OpenCV (if used for image preprocessing)
